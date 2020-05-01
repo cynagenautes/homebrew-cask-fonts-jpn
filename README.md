@@ -1,22 +1,14 @@
-# homebrew-cask-fonts
+# homebrew-cask-fonts-jpn
 
-Here is where you can find or submit font Casks for the [Homebrew Cask](https://github.com/Homebrew/homebrew-cask) project.
+homebrewで日本語フォントを入れたい
 
-## Let’s try it!
+## 使い方
 
 ```bash
-$ brew tap homebrew/cask-fonts                  # you only have to do this once!
-$ brew cask install font-inconsolata
+$ brew tap cynagenautes/cask-fonts-jpn                  # you only have to do this once!
+$ brew cask install font-"what you want"
 ```
 
-## Submitting a Font Cask
+## homebrew-cask-fonts-jpn License
 
-Want to contribute a Font Cask? Awesome! Please do! See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## Font Licenses
-
-homebrew-cask-fonts will only accept fonts which are freely-distributable. However, even freely-distributable fonts may have limitations (for instance, if you use them in a commercial enterprise). It is the responsibility of the user to know and respect the license of each font.
-
-## homebrew-cask-fonts License
-
-Code is under the [BSD 2 Clause (NetBSD) license](https://github.com/Homebrew/homebrew-cask-fonts/blob/master/LICENSE)
+Code is under the [BSD 2 Clause (NetBSD) license](https://github.com/cynagenautes/homebrew-cask-fonts-jpn/blob/master/LICENSE)
